@@ -3,7 +3,7 @@ import BlogContent from "./BlogContent";
 import Comment from "./Comment";
 
 function BlogPost() {
-  return (
+  return ( 
     <div id="blog-post">
       <BlogContent articleText="Dear Reader: Bjarne Stroustrup has the perfect lecture oration." />
       <Comment commentText="I agree with this statement. - Angela Merkel" />

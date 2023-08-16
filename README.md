@@ -27,7 +27,7 @@ Our application will include the following components:
 ### Making Components Dynamic
 
 Time to put the **dynamic** aspect of components to use! Let's start with the
-`BlogContent` component:
+`BlogContent` component:   
 
 ```jsx
 function BlogContent(props) {
